@@ -11,6 +11,7 @@
 <ul>
   <li>💻 I am currently a Computer Science BSc Student.</li>
   <li>⚙️ Looking for graduate roles in Software Engineering.</li>
+  <li>🎮 Love playing video games.</li>
   <li>📽️ Watching alot of films...</li>
 </ul>
 
